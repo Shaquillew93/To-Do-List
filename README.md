@@ -1,6 +1,6 @@
 # To-Do List App
 
-A simple to-do list application built with HTML, CSS, and Javascript.
+A to-do list application built with HTML, CSS, and Javascript.
 
 ## Features
 - Add tasks
